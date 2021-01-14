@@ -1,4 +1,4 @@
-# Easy Bank Site challange
+# Easy Bank Site
 
 <img src="/images/desktop-preview.jpg" alt="Easy Bank Design">
 
